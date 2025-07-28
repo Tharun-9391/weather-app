@@ -88,7 +88,7 @@ Feel free to connect or reach out:
 
 **Tharun Teja**  
 📧 Email: chandatharunteja1@gmail.com  
-💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/chanda-tharunteja-277611258/)
 
 ---
 
