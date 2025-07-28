@@ -59,7 +59,7 @@ _Add screenshots of your app here (optional)_
 
 ## 🌐 Live Demo
 
-[Click here to view the deployed app](https://your-deployment-url.com)
+[Click here to view the deployed app](https://weather-q382rc01h-tharuns-projects-dec1b05d.vercel.app)
 
 ## 📁 Folder Structure
 
