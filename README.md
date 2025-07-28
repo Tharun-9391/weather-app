@@ -53,9 +53,7 @@ A simple and responsive Weather App that allows users to check real-time weather
 
 6. Open your browser and navigate to `http://localhost:5173` to see the app running!
 
-## 📸 Screenshots
 
-_Add screenshots of your app here (optional)_
 
 ## 🌐 Live Demo
 
