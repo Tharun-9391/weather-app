@@ -87,7 +87,7 @@ weather-app/
 Feel free to connect or reach out:
 
 **Tharun Teja**  
-📧 Email: yourname@example.com  
+📧 Email: chandatharunteja1@gmail.com  
 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 
 ---
