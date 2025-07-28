@@ -59,20 +59,26 @@ A simple and responsive Weather App that allows users to check real-time weather
 
 [Click here to view the deployed app](https://weather-q382rc01h-tharuns-projects-dec1b05d.vercel.app)
 
-## 📁 Folder Structure
+## 📁 Project Structure
 
 ```
 weather-app/
 │
 ├── public/
+│   └── index.html
 ├── src/
-│   ├── components/
 │   ├── assets/
+│   ├── App.css
 │   ├── App.jsx
+│   ├── index.css
 │   ├── main.jsx
-│   └── index.css
-├── .env
+│   ├── weather.css
+│   └── weather.jsx
+├── .gitignore
+├── eslint.config.js
+├── README.md
 ├── package.json
+├── package-lock.json
 └── vite.config.js
 ```
 
